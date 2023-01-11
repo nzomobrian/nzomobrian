@@ -18,12 +18,10 @@
   <img src="https://komarev.com/ghpvc/?username=nzomobrian&style=flat-square&color=blue" alt=""/>
 </div>
 
-<h1>
+<h1 id="badges" align="center">
   I reckon problems are there to be solved
-  <img src="https://media.giphy.com/media/uZlxaF59yuAiOmCdz9/giphy.gif" width="30px"/>
+  <img src="https://media.giphy.com/media/uZlxaF59yuAiOmCdz9/giphy.gif" width="80px"/>
 </h1>
-
-### Hello 👋,My name is nzomo
 
 I am an Enthusiatic Passionate Developer from Kenya
 
