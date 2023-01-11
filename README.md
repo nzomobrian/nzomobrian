@@ -1,6 +1,9 @@
 <div id="header" align="center">
-  Social Media
   <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="100"/>
+</div>
+
+<div align="center">
+  social media
 </div>
 
 <div id="badges" align="center">
