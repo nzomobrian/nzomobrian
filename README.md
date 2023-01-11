@@ -1,4 +1,5 @@
 <div id="header" align="center">
+  Social Media
   <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="100"/>
 </div>
 
