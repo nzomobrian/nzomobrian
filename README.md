@@ -23,9 +23,9 @@
   <img src="https://media.giphy.com/media/uZlxaF59yuAiOmCdz9/giphy.gif" width="80px"/>
 </h1>
 
-I am an Enthusiatic Passionate Developer from Kenya
+### :man_technologist: About Me :
 
-About
+I am an Enthusiatic Passionate Developer from Kenya
 
 - 🔭 I’m currently a software engineer student with ALX Africa
 - 📫 How to reach me:@brnzomo17@gmail.com
