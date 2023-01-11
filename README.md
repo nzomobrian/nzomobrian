@@ -14,6 +14,10 @@
   </a>
 </div>
 
+<div id="badges" align="center">
+  <img src="https://komarev.com/ghpvc/?username=nzomobrian&style=flat-square&color=blue" alt=""/>
+</div>
+
 ### Hello 👋,My name is nzomo
 
 I am an Enthusiatic Passionate Developer from Kenya
