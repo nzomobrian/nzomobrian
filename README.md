@@ -40,13 +40,11 @@ I am an Enthusiatic Passionate Developer from Kenya
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+  
+  ### :briefcase: My Stats :
+  
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=nzomobrian&theme=chartreuse-dark&border_radius=4.8&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 <!--
 **nzomobrian/nzomobrian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently a software engineer student with ALX Africa
-- 📫 How to reach me:@brnzomo17@gmail.com
-- ⚡ As long as it's coding count me in.
 -->
