@@ -50,6 +50,7 @@ I am an Enthusiatic Passionate Developer from Kenya
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
+  [![](https://user-images.githubusercontent.com/120065120/212209674-07b3685e-1127-4f42-9871-3a423d343fa2.svg)](https://user-images.githubusercontent.com/120065120/212209674-07b3685e-1127-4f42-9871-3a423d343fa2.svg)
   <!--
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/1sgetPM00wWqJpVUTl/giphy.gif" width="200" height="200"/>
