@@ -7,7 +7,7 @@
 </div>
 
 <h1 id="badges" align="center">
-  I reckon problems are there to be solved.
+  I reckon problems are there to be solved
   <!--
   <img src="https://media.giphy.com/media/uZlxaF59yuAiOmCdz9/giphy.gif" width="80px"/>
 -->
